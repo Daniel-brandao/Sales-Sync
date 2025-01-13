@@ -45,8 +45,10 @@ Atualmente, o Sales Sync está em fase de desenvolvimento e ainda não possui um
   - **onfiabilidade:** Dados centralizados e seguros.
 
 Se você é empresário ou desenvolvedor interessado em acompanhar este projeto, fique à vontade para contribuir ou entrar em contato!
-Daniel Brandão
-Desenvolvedor Delphi
+Daniel Brandão  
+
+Desenvolvedor Delphi  
+
 daniel.26.ramos@gmail.com | https://github.com/daniel-brandao/ | https://www.linkedin.com/in/daniel-brand%C3%A3o-27021418b/
 
 
