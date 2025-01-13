@@ -1,19 +1,57 @@
 ![Logo do Sales Sync](./logo.png)
 
+Sales Sync é um sistema de gestão e sincronização de vendas de produtos e serviços, desenvolvido para facilitar o controle e a integração de informações comerciais. Ele oferece funcionalidades robustas para empresas que desejam otimizar seus processos de vendas, melhorar a organização de dados e garantir precisão nas operações.
+
+**Sobre o Projeto**
+O Sales Sync foi idealizado e está sendo desenvolvido por mim, Daniel Brandão, com o objetivo de criar um sistema único que gerencie todas as demandas de um negócio em um só lugar.
+
+A ideia surgiu ao perceber que muitas empresas utilizam diversos sistemas diferentes para atender a cada necessidade, o que aumenta os custos e dificulta a adaptação dos colaboradores. Então, por que não unificar tudo em uma única solução?
+
+O Sales Sync propõe centralizar todas as operações do seu negócio em um só lugar. Desde o atendimento ao cliente até o pós-venda, passando por gestão financeira, controle de estoque e muito mais. O objetivo é proporcionar ao empresário total controle de suas operações, garantindo confiabilidade nos dados e redução de custos, eliminando a necessidade de múltiplos sistemas.
 
 
-Sales Sync é um sistema de gestão e sincronização de vendas de produtos e serviços, desenvolvido para facilitar o controle e a integração de informações comerciais. Ele oferece funcionalidades robustas para empresas que desejam otimizar seus processos de vendas, melhorar a organização de dados e garantir a precisão nas operações.
+- # **Como Funciona?**
+O sistema é dividido em módulos que atendem a diferentes áreas do negócio:
 
-- **Gestão de Vendas:** Controle completo de vendas de produtos e serviços, com registro detalhado de transações.
+**Módulo Financeiro**
+ - Controle completo das finanças do negócio, incluindo movimentações financeiras e emissão automatizada de notas fiscais.
 
-- **Sincronização de Dados:** Integração automática entre diferentes dispositivos e pontos de venda, garantindo que todas as informações estejam sempre atualizadas.
+**Módulo de Estoque**
+- Gerenciamento total do estoque, desde o processo de compra até a linha de produção de produtos e serviços.
+  
+**Módulo de Atendimento**
+- Cadastro de clientes e fornecedores com funcionalidades avançadas, como consultas de CPF, CNPJ e CEP diretamente na Receita Federal e Correios, além de chatbot para atendimento automatizado de clientes e fornecedores
+- Chatbot para atendimento automatizado de clientes e fornecedores.
+  
+**Módulo Mobile**
+- Um aplicativo 100% integrado com a aplicação desktop, voltado para vendedores de campo e cadastro de produtos.
+- Com apenas um celular, será possível realizar vendas, gerenciar serviços e muito mais.
+  
+**Módulo Produção**
+- Gerenciamento da fabricação de produtos e execução de serviços, contabilizando tempos de fabricação e execução.
+- Painel Kanban para gerenciamento de etapas e controle total da linha de produção.
 
-- **Consulta de CPF e CNPJ:** Verificação de informações de clientes e empresas para validação de dados e compliance.
+### ***Nota:** Os Módulos podem sofrer alterações tanto em quantidade quanto em funcionalidades tendo em vista que o projeto esta em desenvolvimento
 
-- **Consulta de CEP:** Busca automática de endereços com base no CEP, agilizando o cadastro de clientes e fornecedores.
+- # **Progresso Atual**
+Atualmente, o Sales Sync está em fase de desenvolvimento e ainda não possui uma versão disponível para download. No entanto, em breve será lançada a primeira versão totalmente gratuita, projetada para atender negócios de todos os tamanhos e setores.
 
-- **Relatórios Personalizados:** Geração de relatórios detalhados para análise de desempenho e tomada de decisões estratégicas.
+**Fique atento às novidades!**
 
-- **Interface Intuitiva:** Design amigável que facilita a navegação e o uso do sistema, mesmo para usuários com pouca experiência técnica.
+- # **Por que Sales Sync?**
+  - **Centralização:** Um único sistema para gerenciar todas as áreas do negócio.
+  - **Eficiência:** Redução de custos e aumento da produtividade.
+  - **Acessibilidade:** Integração desktop e mobile para atender diferentes cenários de trabalho.
+  - **onfiabilidade:** Dados centralizados e seguros.
+
+Se você é empresário ou desenvolvedor interessado em acompanhar este projeto, fique à vontade para contribuir ou entrar em contato!
+Daniel Brandão
+Desenvolvedor Delphi
+daniel.26.ramos@gmail.com | https://github.com/daniel-brandao/ | https://www.linkedin.com/in/daniel-brand%C3%A3o-27021418b/
+
+
+
+
+
 
 
