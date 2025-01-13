@@ -53,6 +53,21 @@ Desenvolvedor Delphi
 daniel.26.ramos@gmail.com | https://github.com/daniel-brandao/ | https://www.linkedin.com/in/daniel-brand%C3%A3o-27021418b/
 
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-brand%C3%A3o-27021418b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:daniel.26.ramos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me//5548988182873" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+
 
 
 
