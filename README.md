@@ -1,6 +1,6 @@
 # Sales-Sync
 
-![Logo do Sales Sync](.logo.png)
+![Logo do Sales Sync](./logo.png)
 
 Sales Sync é um sistema de gestão e sincronização de vendas de produtos e serviços, desenvolvido para facilitar o controle e a integração de informações comerciais. Ele oferece funcionalidades robustas para empresas que desejam otimizar seus processos de vendas, melhorar a organização de dados e garantir a precisão nas operações.
 
