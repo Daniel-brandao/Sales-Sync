@@ -3,14 +3,14 @@ Sales Sync é um sistema de gestão e sincronização de vendas de produtos e se
 
 - **Gestão de Vendas:** Controle completo de vendas de produtos e serviços, com registro detalhado de transações.
 
--**Sincronização de Dados:** Integração automática entre diferentes dispositivos e pontos de venda, garantindo que todas as informações estejam sempre atualizadas.
+- **Sincronização de Dados:** Integração automática entre diferentes dispositivos e pontos de venda, garantindo que todas as informações estejam sempre atualizadas.
 
--**Consulta de CPF e CNPJ:** Verificação de informações de clientes e empresas para validação de dados e compliance.
+- **Consulta de CPF e CNPJ:** Verificação de informações de clientes e empresas para validação de dados e compliance.
 
--**Consulta de CEP:** Busca automática de endereços com base no CEP, agilizando o cadastro de clientes e fornecedores.
+- **Consulta de CEP:** Busca automática de endereços com base no CEP, agilizando o cadastro de clientes e fornecedores.
 
--**Relatórios Personalizados:** Geração de relatórios detalhados para análise de desempenho e tomada de decisões estratégicas.
+- **Relatórios Personalizados:** Geração de relatórios detalhados para análise de desempenho e tomada de decisões estratégicas.
 
--**Interface Intuitiva:** Design amigável que facilita a navegação e o uso do sistema, mesmo para usuários com pouca experiência técnica.
+- **Interface Intuitiva:** Design amigável que facilita a navegação e o uso do sistema, mesmo para usuários com pouca experiência técnica.
 
 
