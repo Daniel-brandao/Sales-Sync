@@ -31,7 +31,7 @@ O sistema é dividido em módulos que atendem a diferentes áreas do negócio:
 - Gerenciamento da fabricação de produtos e execução de serviços, contabilizando tempos de fabricação e execução.
 - Painel Kanban para gerenciamento de etapas e controle total da linha de produção.
 
-### **Nota:** Os Módulos podem sofrer alterações tanto em quantidade quanto em funcionalidades tendo em vista que o projeto esta em desenvolvimento
+Nota: Os Módulos podem sofrer alterações tanto em quantidade quanto em funcionalidades tendo em vista que o projeto esta em desenvolvimento
 
 - # **Progresso Atual**
 Atualmente, o Sales Sync está em fase de desenvolvimento e ainda não possui uma versão disponível para download. No entanto, em breve será lançada a primeira versão totalmente gratuita, projetada para atender negócios de todos os tamanhos e setores.
