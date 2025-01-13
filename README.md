@@ -2,7 +2,8 @@
 
 Sales Sync é um sistema de gestão e sincronização de vendas de produtos e serviços, desenvolvido para facilitar o controle e a integração de informações comerciais. Ele oferece funcionalidades robustas para empresas que desejam otimizar seus processos de vendas, melhorar a organização de dados e garantir precisão nas operações.
 
-**Sobre o Projeto**
+**Sobre o Projeto**  
+
 O Sales Sync foi idealizado e está sendo desenvolvido por mim, Daniel Brandão, com o objetivo de criar um sistema único que gerencie todas as demandas de um negócio em um só lugar.
 
 A ideia surgiu ao perceber que muitas empresas utilizam diversos sistemas diferentes para atender a cada necessidade, o que aumenta os custos e dificulta a adaptação dos colaboradores. Então, por que não unificar tudo em uma única solução?
