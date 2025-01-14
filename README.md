@@ -67,11 +67,6 @@ daniel.26.ramos@gmail.com | https://github.com/daniel-brandao/ | https://www.lin
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/daniel-brandao/daniel-brandao/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
