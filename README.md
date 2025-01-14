@@ -43,7 +43,7 @@ Atualmente, o Sales Sync está em fase de desenvolvimento e ainda não possui um
   - **Centralização:** Um único sistema para gerenciar todas as áreas do negócio.
   - **Eficiência:** Redução de custos e aumento da produtividade.
   - **Acessibilidade:** Integração desktop e mobile para atender diferentes cenários de trabalho.
-  - **onfiabilidade:** Dados centralizados e seguros.
+  - **Confiabilidade:** Dados centralizados e seguros.
 
 Se você é empresário ou desenvolvedor interessado em acompanhar este projeto, fique à vontade para contribuir ou entrar em contato!
 Daniel Brandão  
